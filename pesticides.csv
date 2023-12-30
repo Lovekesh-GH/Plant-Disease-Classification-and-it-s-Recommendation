@@ -1,0 +1,36 @@
+CLASS_NAMES,Pesticide,Quantity
+Apple___Apple_scab,Mancozeb/Captan,2.5 kg/ha
+Apple___Black_rot,Captan/Mancozeb,1.5 kg/ha
+Apple___Cedar_apple_rust,Myclobutanil/Propiconazole,1-3 kg/ha
+Apple___healthy,N/A,N/A
+Blueberry___healthy,N/A,N/A
+Cherry_(including_sour)___Powdery_mildew,Sulfur/Myclobutanil,1-2 kg/ha
+Cherry_(including_sour)___healthy,N/A,N/A
+Corn_(maize)___Common_rust_,Azoxystrobin,200-300 mL/ha
+Grape___Black_rot,Captan/Mancozeb,2-4 kg/ha
+Grape___Esca_(Black_Measles), Fosetylaluminum,1-2 kg/ha
+Grape__Leaf_blight,Trifloxystrobin,2.5 kg/ha
+Grape___healthy,N/A,N/A
+Orange___Haunglongbing_(Citrus_greening), Imidacloprid,1.5-3 kg/ha
+Peach___Bacterial_spot,Streptomycin ,2-4 kg/ha
+Peach___healthy,N/A,N/A
+"Pepper,_bell___Bacterial_spot",Streptomycin ,2-4 kg/ha
+"Pepper,_bell___healthy",N/A,N/A
+Potato___Early_blight,Chlorothalonil/Mancozeb,2-4 kg/ha
+Potato___Late_blight,Metalaxyl,2-4 kg/ha
+Potato___healthy,N/A,N/A
+Raspberry___healthy,N/A,N/A
+Soybean___healthy,N/A,N/A
+Squash___Powdery_mildew,Sulfur/PotassiumBicarbonate,1-2 kg/ha
+Strawberry___Leaf_scorch,Chlorothalonil/Myclobutanil,2-4 kg/ha
+Strawberry___healthy,N/A,N/A
+Tomato___Bacterial_spot,Streptomycin ,2-4 kg/ha
+Tomato___Early_blight,Chlorothalonil/Mancozeb,2-4 kg/ha
+Tomato___Late_blight,Chlorothalonil,2-4 kg/ha
+Tomato___Leaf_Mold,Azoxystrobin,1.5 k/ha
+Tomato___Septoria_leaf_spot,Azoxystrobin,1.5 k/ha
+Tomato___Spider_mites Two-spotted_spider_mite,Abamectin,2-4 k/ha
+Tomato___Target_Spot,Fluazinam,2 kg/ha
+Tomato_Yellow_Leaf_Curl_Virus,Spirotetramat, 80-120 grams/ha
+Tomato___Tomato_mosaic_virus,Cu-based fungicides,As per label
+Tomato___healthy,N/A,N/A
